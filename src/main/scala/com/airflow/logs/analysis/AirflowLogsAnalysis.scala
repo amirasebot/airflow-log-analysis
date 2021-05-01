@@ -1,4 +1,4 @@
-com.airflow.logs.analysis
+package com.airflow.logs.analysis
 
 object AirflowLogsAnalysis{
 
